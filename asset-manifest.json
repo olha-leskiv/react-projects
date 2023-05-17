@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-projects/https://olha-leskiv.github.io/react-projects/static/css/main.59e373f0.css",
-    "main.js": "/react-projects/https://olha-leskiv.github.io/react-projects/static/js/main.1fb13306.js",
-    "static/media/logo.svg": "/react-projects/https://olha-leskiv.github.io/react-projects/static/media/logo.3cc0528bd46321d63d85702006069614.svg",
-    "static/media/icon-dollar.svg": "/react-projects/https://olha-leskiv.github.io/react-projects/static/media/icon-dollar.9f9be3534a9295a65957.svg",
-    "static/media/icon-person.svg": "/react-projects/https://olha-leskiv.github.io/react-projects/static/media/icon-person.65bfd20465dd1d2cb58c.svg",
-    "index.html": "/react-projects/https://olha-leskiv.github.io/react-projects/index.html",
-    "main.59e373f0.css.map": "/react-projects/https://olha-leskiv.github.io/react-projects/static/css/main.59e373f0.css.map",
-    "main.1fb13306.js.map": "/react-projects/https://olha-leskiv.github.io/react-projects/static/js/main.1fb13306.js.map"
+    "main.css": "/react-projects/tip-calculator-react/static/css/main.ebab477c.css",
+    "main.js": "/react-projects/tip-calculator-react/static/js/main.bd67f7bb.js",
+    "static/media/logo.svg": "/react-projects/tip-calculator-react/static/media/logo.3cc0528bd46321d63d85702006069614.svg",
+    "static/media/icon-dollar.svg": "/react-projects/tip-calculator-react/static/media/icon-dollar.9f9be3534a9295a65957.svg",
+    "static/media/icon-person.svg": "/react-projects/tip-calculator-react/static/media/icon-person.65bfd20465dd1d2cb58c.svg",
+    "index.html": "/react-projects/tip-calculator-react/index.html",
+    "main.ebab477c.css.map": "/react-projects/tip-calculator-react/static/css/main.ebab477c.css.map",
+    "main.bd67f7bb.js.map": "/react-projects/tip-calculator-react/static/js/main.bd67f7bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.59e373f0.css",
-    "static/js/main.1fb13306.js"
+    "static/css/main.ebab477c.css",
+    "static/js/main.bd67f7bb.js"
   ]
 }
