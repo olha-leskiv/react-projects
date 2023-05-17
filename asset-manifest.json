@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-projects/tip-calculator-react/static/css/main.ebab477c.css",
-    "main.js": "/react-projects/tip-calculator-react/static/js/main.bd67f7bb.js",
-    "static/media/logo.svg": "/react-projects/tip-calculator-react/static/media/logo.3cc0528bd46321d63d85702006069614.svg",
-    "static/media/icon-dollar.svg": "/react-projects/tip-calculator-react/static/media/icon-dollar.9f9be3534a9295a65957.svg",
-    "static/media/icon-person.svg": "/react-projects/tip-calculator-react/static/media/icon-person.65bfd20465dd1d2cb58c.svg",
-    "index.html": "/react-projects/tip-calculator-react/index.html",
-    "main.ebab477c.css.map": "/react-projects/tip-calculator-react/static/css/main.ebab477c.css.map",
-    "main.bd67f7bb.js.map": "/react-projects/tip-calculator-react/static/js/main.bd67f7bb.js.map"
+    "main.css": "/react-projects/static/css/main.2789b851.css",
+    "main.js": "/react-projects/static/js/main.f12d7518.js",
+    "static/media/logo.svg": "/react-projects/static/media/logo.3cc0528bd46321d63d85702006069614.svg",
+    "static/media/icon-dollar.svg": "/react-projects/static/media/icon-dollar.9f9be3534a9295a65957.svg",
+    "static/media/icon-person.svg": "/react-projects/static/media/icon-person.65bfd20465dd1d2cb58c.svg",
+    "index.html": "/react-projects/index.html",
+    "main.2789b851.css.map": "/react-projects/static/css/main.2789b851.css.map",
+    "main.f12d7518.js.map": "/react-projects/static/js/main.f12d7518.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebab477c.css",
-    "static/js/main.bd67f7bb.js"
+    "static/css/main.2789b851.css",
+    "static/js/main.f12d7518.js"
   ]
 }
